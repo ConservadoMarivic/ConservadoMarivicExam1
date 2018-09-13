@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#ce0609</item>
+        <item name="colorPrimaryDark">#a10406</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Airbender">
+        <item name="android:textColor">#e7a025</item>
+    </style>
+
+    <style name="Waterbender">
+        <item name="android:textColor">#1b4ad9</item>
+    </style>
+
+    <style name="Firebender">
+        <item name="android:textColor">#bf1414</item>
+    </style>
+
+    <style name="bg1">
+        <item name="android:background">@color/bg</item>
+    </style>
+
+</resources>
